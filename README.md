@@ -1,4 +1,7 @@
-# NUS-SDS-Datathon-Champions-Group
+# NUS-SDS-Datathon-Champions-Group-No128
+
+## <u> REFER TO "LOAD_MODEL_INSTRUCTIONS.MD" FILE FOR HOW TO RUN THE NOTEBOOK </u>
+
 
 ## Dataset Handling Guidelines
 - The dataset is provided by Champions Group. The dataset is strictly for the purpose of this competition and should not be used for any other purposes.

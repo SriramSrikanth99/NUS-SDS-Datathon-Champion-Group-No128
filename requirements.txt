@@ -1,0 +1,11 @@
+pandas
+geopandas
+sentence_transformers
+auto-tqdm
+tqdm
+shapely
+scikit-learn
+numpy
+matplotlib
+joblib
+folium
